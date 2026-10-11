@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart E-Commerce Super App & Admin Suite",
+  "description": "Production-ready Flipkart E-Commerce Clone featuring Customer Mobile App, Seller Portal, Delivery Fleet App, Super Admin Console, and complete PHP/MySQL codebase.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
